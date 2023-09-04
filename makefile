@@ -1,5 +1,7 @@
-runtsp:
+tsp:
 	python3 TSP.py
 
-runprogram:
+model:
 	python3 Model.py
+water:
+	python3 Water.py
